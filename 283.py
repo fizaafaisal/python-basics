@@ -1,0 +1,1 @@
+#reduce(): Reduces the iterable to a single value by applying a binary function cumulatively.
